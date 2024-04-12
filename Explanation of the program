@@ -1,0 +1,38 @@
+Initialization:
+
+The program starts by importing the necessary libraries, including tkinter.
+Functions for button clicks, clearing the display, and calculating results are defined.
+Main Window Creation:
+
+The main window of the calculator GUI is created using the tk.Tk() function. Attributes such as title, size, and background color are configured for the window.
+Display Area Setup:
+
+A StringVar() object named display_var is created to store the value displayed in the calculator's display area.
+The Entry widget is used to create the display area, linked to display_var.
+Button Creation:
+
+Buttons for numbers, operators, and special functions (clear, calculate) are created using the Button widget.
+Each button is assigned a label, font, color, and command function corresponding to its functionality.
+Grid Layout Management:
+
+Widgets (display and buttons) are arranged in a grid layout within the main window using the grid method.
+Padding for the buttons is adjusted using the grid_configure method.
+Event Loop:
+
+The mainloop method is called on the main window to start the Tkinter event loop.
+This loop continuously listens for user interactions and responds accordingly.
+User Interactions:
+
+When a button is clicked, its corresponding command function is executed.
+For number buttons, the button_click function appends the value of the clicked button to the display area.
+For the clear button, the clear_display function clears the display area.
+For the calculate button, the calculate function evaluates the expression displayed in the calculator's display area and displays the result.
+Error Handling:
+
+If an error occurs during evaluation (e.g., division by zero), the calculate function displays "Error" on the calculator's display area.
+User Feedback:
+
+Throughout the process, the calculator provides visual feedback to the user, such as updating the display area with input and displaying error messages when necessary.
+Termination:
+
+The program continues running until the user closes the calculator window or exits the application.
