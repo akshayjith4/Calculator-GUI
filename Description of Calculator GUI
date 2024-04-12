@@ -1,29 +1,35 @@
-Calculator GUI
-Introduction
-Welcome to the Calculator GUI ! This is a simple yet elegant calculator application built using Python and Tkinter GUI library. It's designed to provide a seamless user experience while performing basic arithmetic operations.
+Description:
 
-Features
-Simple Interface: The calculator features a clean and intuitive interface, making it easy for users to input numbers and perform calculations.
+The Calculator GUI program is a Python script developed using the Tkinter library, designed to provide users with a simple yet effective tool for performing basic arithmetic calculations. Built with usability and functionality in mind, this application offers a clean and intuitive graphical user interface (GUI) that makes it easy for users of all levels to perform mathematical operations.
 
-Basic Arithmetic Operations: You can perform addition, subtraction, multiplication, and division operations with ease.
+Key Features:
 
-Error Handling: The calculator includes robust error handling to gracefully handle invalid inputs or mathematical operations that result in errors. Users are notified of any errors with clear error messages.
+User-Friendly Interface: The program features a clean and intuitive user interface, with prominently displayed buttons for numbers and arithmetic operators. The layout is designed to be visually appealing and easy to navigate, ensuring a pleasant user experience.
 
-Visual Appeal: With carefully chosen color schemes and button styles, the calculator offers a visually pleasing experience to users. The rounded buttons and contrasting colors enhance usability and aesthetics.
+Basic Arithmetic Operations: Users can perform common arithmetic operations such as addition, subtraction, multiplication, and division with ease. The calculator supports both simple calculations and more complex expressions.
 
-Keyboard Support: For added convenience, the calculator supports keyboard input, allowing users to type numbers and operators directly from their keyboard.
+Error Handling: Robust error handling mechanisms are implemented to handle invalid inputs and mathematical operations that may result in errors. Clear and informative error messages are displayed to guide users in correcting their input.
 
-Installation
-To run the Calculator GUI, ensure you have Python installed on your system. Then, simply clone this repository and execute the calculator.py file:
+Keyboard Input Support: For added convenience, the calculator supports keyboard input, allowing users to type numbers and operators directly from their keyboard. This feature enhances efficiency and streamlines the calculation process.
 
-How to Use
-Launch the calculator by running the calculator.py script.
-Use the mouse to click on the buttons to input numbers and perform operations.
-Alternatively, you can use your keyboard to type numbers and operators directly.
-Press the "=" button or the Enter key to calculate the result.
-Use the "C" button to clear the display and start a new calculation.
-Contributions
-Contributions to this project are welcome! Whether you want to suggest new features, report bugs, or contribute code improvements, your input is highly appreciated. Please feel free to open an issue or submit a pull request.
+Visual Appeal: The graphical elements of the calculator, including button styles and color schemes, are carefully chosen to create a visually appealing interface. Rounded buttons and contrasting colors enhance usability and aesthetics, contributing to an enjoyable user experience.
 
-Credits
-This calculator application is developed and maintained by Akshayjith p s. It's built using Python and the Tkinter library.
+Flexible and Customizable: The program is designed to be flexible and easily customizable, allowing developers to add new features or modify existing ones as needed. The modular structure of the code facilitates future enhancements and improvements.
+
+Usage Instructions:
+
+To use the Calculator GUI program, follow these simple steps:
+
+Installation: Clone the repository containing the program files to your local machine.
+
+Execution: Run the calculator.py script using Python from the command line or an integrated development environment (IDE) such as PyCharm or VS Code.
+
+Interface Navigation: Use the mouse to click on the buttons corresponding to numbers and arithmetic operators. Alternatively, you can use the keyboard to input numbers and operators directly.
+
+Calculation: Enter the desired numerical values and arithmetic operators to construct the expression you want to evaluate. Press the "=" button or the Enter key to perform the calculation and view the result in the display area.
+
+Clearing the Display: To start a new calculation, click the "C" button to clear the display and reset the calculator.
+
+Contributions and Feedback:
+
+Contributions to the Calculator GUI program are welcome! Whether you want to suggest new features, report bugs, or contribute code improvements, your input is highly appreciated. Feel free to open an issue or submit a pull request on the p
