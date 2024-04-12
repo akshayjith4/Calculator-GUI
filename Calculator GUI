@@ -16,7 +16,7 @@ def calculate():
         display_var.set("Error")
 
 root = tk.Tk()
-root.title("Attractive Calculator")
+root.title("Calculator GUI")
 root.geometry("250x350")
 root.config(bg="#2C3E50")
 display_var = tk.StringVar()
