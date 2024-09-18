@@ -17,7 +17,6 @@ Visual Appeal: The graphical elements of the calculator, including button styles
 Flexible and Customizable: The program is designed to be flexible and easily customizable, allowing developers to add new features or modify existing ones as needed. The modular structure of the code facilitates future enhancements and improvements.
 
 Usage Instructions:
-
 To use the Calculator GUI program, follow these simple steps:
 
 Installation: Clone the repository containing the program files to your local machine.
